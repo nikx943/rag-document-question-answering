@@ -1,0 +1,7 @@
+streamlit
+pypdf
+numpy
+chromadb
+ollama
+sentence-transformers
+rank-bm25S

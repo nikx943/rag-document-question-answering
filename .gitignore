@@ -1,0 +1,5 @@
+chroma_db/
+.ipynb_checkpoints/
+*.pdf
+.env
+__pycache__/
